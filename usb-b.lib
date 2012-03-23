@@ -1,0 +1,19 @@
+EESchema-LIBRARY Version 2.3  Date: 5/2/2007-08:46:31
+#
+#  Conn USB
+#
+DEF Conn USB   0 0 N Y 1 F N
+F0 "Conn USB" 0 0 60 H V C C
+F1 "Conn USB" 0 0 60 H V C C
+DRAW
+S -200 300 200 -350 0 1 0 N
+X Chassis 6 -250 -100 0 L 100 50 1 1 U
+X Vbus 1 -50 -300 0 L 50 50 1 1 w
+X Ground 4 -50 -200 0 L 50 50 1 1 w
+X D- 2 50 -300 0 R 50 50 1 1 B
+X D+ 3 50 -200 0 R 50 50 1 1 B
+X Chassis 5 250 -100 0 R 100 50 1 1 U
+ENDDRAW
+ENDDEF
+#
+#End Library
