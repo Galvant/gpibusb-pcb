@@ -1,5 +1,5 @@
-update=Mon 13 Feb 2012 02:41:52 PM EST
-last_client=kicad
+update=Mon 26 Mar 2012 09:53:07 AM EDT
+last_client=eeschema
 [pcbnew]
 version=1
 PadDrlX=400
@@ -49,10 +49,17 @@ LibName10=pga_sockets
 LibName11=valves
 LibName12=LED-1206-modified
 LibDir=
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
-NetFmt=1
+NetFmtName=
 HPGLSpd=20
 HPGLDm=15
 HPGLNum=1
@@ -94,10 +101,3 @@ LibName30=./w_microcontrollers
 LibName31=./PIC18F452
 LibName32=valves
 LibName33=usb-b
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
-[general]
-version=1
