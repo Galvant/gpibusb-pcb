@@ -1,0 +1,105 @@
+EESchema-DOCLIB  Version 2.0  Date: mer 03 mar 2010 13:13:44 CET
+#
+$CMP PIC12F609
+D FLASH-Based 8-Bit CMOS Microcontroller
+K 12F609
+F /home/walter/Documents/Elettronica/DATA_SHEET/Integrati/Digitali/microcontrollori/Microchip/MCIP_12F609-615-617.pdf
+$ENDCMP
+#
+$CMP PIC12F615
+D FLASH-Based 8-Bit CMOS Microcontroller
+K 12F615
+F /home/walter/Documents/Elettronica/DATA_SHEET/Integrati/Digitali/microcontrollori/Microchip/MCIP_12F609-615-617.pdf
+$ENDCMP
+#
+$CMP PIC12F617
+D FLASH-Based 8-Bit CMOS Microcontroller
+K 12F617
+F /home/walter/Documents/Elettronica/DATA_SHEET/Integrati/Digitali/microcontrollori/Microchip/MCIP_12F609-615-617.pdf
+$ENDCMP
+#
+$CMP PIC12F683
+D FLASH-Based 8-Bit CMOS Microcontroller
+K 12F683
+F /home/walter/Documents/Elettronica/DATA_SHEET/Integrati/Digitali/microcontrollori/Microchip/MCIP_12F683.pdf
+$ENDCMP
+#
+$CMP PIC16F628A
+D FLASH-Based 8-Bit CMOS Microcontroller
+K 16F628
+F /home/walter/Documents/Elettronica/DATA_SHEET/Integrati/Digitali/microcontrollori/Microchip/MCIP_16F62xA.pdf
+$ENDCMP
+#
+$CMP PIC16F874A-DIP
+D FLASH-Based 8-Bit CMOS Microcontroller
+K 16F874A
+F /home/walter/Documents/Elettronica/DATA_SHEET/Integrati/Digitali/microcontrollori/Microchip/MCIP_16F87xA.pdf
+$ENDCMP
+#
+$CMP PIC16F876A
+D FLASH-Based 8-Bit CMOS Microcontroller
+K 16F876
+F /home/walter/Documents/Elettronica/DATA_SHEET/Integrati/Digitali/microcontrollori/Microchip/MCIP_16F87xA.pdf
+$ENDCMP
+#
+$CMP PIC16F877A
+D FLASH-Based 8-Bit CMOS Microcontroller
+K 16F877
+F /home/walter/Documents/Elettronica/DATA_SHEET/Integrati/Digitali/microcontrollori/Microchip/MCIP_16F87xA.pdf
+$ENDCMP
+#
+$CMP PIC16F877A-DIP
+D FLASH-Based 8-Bit CMOS Microcontroller
+K 16F877A
+F /home/walter/Documents/Elettronica/DATA_SHEET/Integrati/Digitali/microcontrollori/Microchip/MCIP_16F87xA.pdf
+$ENDCMP
+#
+$CMP PIC16F884-DIP
+D FLASH-Based 8-Bit CMOS Microcontroller
+K 16F884
+F /home/walter/Documents/Elettronica/DATA_SHEET/Integrati/Digitali/microcontrollori/Microchip/MCIP_PIC16F88x.pdf
+$ENDCMP
+#
+$CMP PIC16F887-DIP
+D FLASH-Based 8-Bit CMOS Microcontroller
+K 16F887
+F /home/walter/Documents/Elettronica/DATA_SHEET/Integrati/Digitali/microcontrollori/Microchip/MCIP_PIC16F88x.pdf
+$ENDCMP
+#
+$CMP PIC18F242
+D FLASH-Based 8-Bit CMOS Microcontroller
+K 18F242
+F /home/walter/Documents/Elettronica/DATA_SHEET/Integrati/Digitali/microcontrollori/Microchip/MCIP_18FXX2.pdf
+$ENDCMP
+#
+$CMP PIC18F2480
+D FLASH-Based 8-Bit CMOS Microcontroller
+K 18F2480
+F /home/walter/Documents/Elettronica/DATA_SHEET/Integrati/Digitali/microcontrollori/Microchip/MCIP_18F2480-2580-4480-4580.pdf
+$ENDCMP
+#
+$CMP PIC18F252
+D FLASH-Based 8-Bit CMOS Microcontroller
+K 18F252
+F /home/walter/Documents/Elettronica/DATA_SHEET/Integrati/Digitali/microcontrollori/Microchip/MCIP_18FXX2.pdf
+$ENDCMP
+#
+$CMP PIC18F4585-DIP
+D FLASH-Based 8-Bit CMOS Microcontroller
+K 18F4585
+F /home/walter/Documents/Elettronica/DATA_SHEET/Integrati/Digitali/microcontrollori/Microchip/MCIP_PIC18F2585-4685-4585-4680.pdf
+$ENDCMP
+#
+$CMP PIC18F4620
+D FLASH-Based 8-Bit CMOS Microcontroller
+K 18F4620
+F /home/walter/Documents/Elettronica/DATA_SHEET/Integrati/Digitali/microcontrollori/Microchip/MCIP_18F4620.pdf
+$ENDCMP
+#
+$CMP PIC18F4680-DIP
+D FLASH-Based 8-Bit CMOS Microcontroller
+K 18F4680
+F /home/walter/Documents/Elettronica/DATA_SHEET/Integrati/Digitali/microcontrollori/Microchip/MCIP_PIC18F2585-4685-4585-4680.pdf
+$ENDCMP
+#
+#End Doc Library

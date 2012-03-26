@@ -1,0 +1,49 @@
+PCBNEW-LibDoc----V1  gio 04 mar 2010 10:36:29 CET
+#
+$MODULE conn_usb_Ax2
+Li conn_usb_Ax2
+Cd USB A-type receptacle, 2x stacked, Tyco P/N 5787617-3
+$EndMODULE
+#
+$MODULE conn_usb_A
+Li conn_usb_A
+Cd USB A-type receptacle, Tyco P/N 292303-3
+$EndMODULE
+#
+$MODULE conn_usb_A-vert
+Li conn_usb_A-vert
+Cd USB A-type vertical receptacle, Tyco P/N 440260-2
+$EndMODULE
+#
+$MODULE DB_15F-VGA
+Li DB_15F-VGA
+Cd D-SUB 15 pin VGA socket, Tyco P/N 440467-1
+$EndMODULE
+#
+$MODULE dvi
+Li dvi
+Cd DVI connector, Tyco P/N 1-1734147-1
+$EndMODULE
+#
+$MODULE conn_usb_B
+Li conn_usb_B
+Cd USB B-type receptacle, Lumberg P/N 2411-02
+Kw USB
+$EndMODULE
+#
+$MODULE rj45-led
+Li rj45-led
+Cd RJ45 + led indicators, Tyco P/N 2-406549-7
+$EndMODULE
+#
+$MODULE rj45-shield
+Li rj45-shield
+Cd RJ45, shielded
+$EndMODULE
+#
+$MODULE rj45-noshield
+Li rj45-noshield
+Cd RJ45, unshielded
+$EndMODULE
+#
+$EndLIBDOC

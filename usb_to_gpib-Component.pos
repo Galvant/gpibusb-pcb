@@ -1,0 +1,33 @@
+### Module positions - created on Tue 02 Aug 2011 12:15:16 PM EDT ###
+### Printed by PcbNew version PCBnew (20090216-final)
+## Unit = inches, Angle = deg.
+## Side : Component
+# Ref    Val                  PosX       PosY        Rot     Side
+C1       100nF                5.1300     4.3100     180.0    Component
+C2       100nF                5.8900     4.3800      90.0    Component
+C3       100nF                6.8800     4.2300       0.0    Component
+C4       4.7uF                6.2500     4.4200     270.0    Component
+C5       10nF                 6.3400     4.4200     270.0    Component
+C6       10pF                 5.0200     4.3600      90.0    Component
+C7       10pF                 5.0000     4.6500     270.0    Component
+L1       INDUCTOR             6.8500     4.3400     270.0    Component
+R1       10k                  5.4900     3.8700     180.0    Component
+R2       1k                   5.7300     3.9200      90.0    Component
+R3       1k                   4.9900     3.7400       0.0    Component
+R4       1k                   4.9900     3.6200       0.0    Component
+R5       1k                   5.2400     3.9200      90.0    Component
+R6       1k                   4.9100     3.9300      90.0    Component
+R7       1k                   5.0200     3.9300      90.0    Component
+R8       1k                   5.1300     3.9200      90.0    Component
+R9       1k                   6.8500     3.8100      90.0    Component
+R10      1k                   6.7600     3.8100      90.0    Component
+R11      1k                   6.6800     3.8100      90.0    Component
+R12      1k                   6.6000     3.8100      90.0    Component
+R13      1k                   6.5200     3.8100      90.0    Component
+R14      1k                   5.8100     3.9900      90.0    Component
+R15      1k                   5.9200     3.9500      90.0    Component
+R16      1k                   6.0400     3.9500      90.0    Component
+R17      1k                   6.1600     3.9500      90.0    Component
+U2       FT232RL              6.5900     4.2600     270.0    Component
+U3       PIC18F452            5.5600     4.3150     180.0    Component
+## End

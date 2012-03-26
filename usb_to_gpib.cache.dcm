@@ -1,0 +1,30 @@
+EESchema-DOCLIB  Version 2.0  Sat 17 Sep 2011 04:49:37 PM EDT
+#
+$CMP C
+D Condensateur non polarise
+$ENDCMP
+#
+$CMP CONN_12X2
+D ymbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP CONN_6
+D ymbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP CP1
+D Condensateur polarise
+$ENDCMP
+#
+$CMP LED
+K LED
+$ENDCMP
+#
+$CMP R
+D Resistance
+K R DEV
+$ENDCMP
+#
+#End Doc Library
