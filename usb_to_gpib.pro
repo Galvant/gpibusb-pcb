@@ -1,5 +1,5 @@
-update=Mon 26 Mar 2012 09:53:07 AM EDT
-last_client=eeschema
+update=Sun 17 Mar 2013 01:33:31 PM EDT
+last_client=kicad
 [pcbnew]
 version=1
 PadDrlX=400
@@ -54,15 +54,10 @@ version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
 NetFmtName=
-HPGLSpd=20
-HPGLDm=15
-HPGLNum=1
 RptD_X=0
 RptD_Y=100
 RptLab=1
@@ -101,3 +96,9 @@ LibName30=./w_microcontrollers
 LibName31=./PIC18F452
 LibName32=valves
 LibName33=usb-b
+LibName34=FT230X
+LibName35=SN75160B
+LibName36=SN75162B
+LibName37=r_pack2
+[general]
+version=1
