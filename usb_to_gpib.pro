@@ -1,4 +1,4 @@
-update=Thu 28 Nov 2013 12:07:50 PM EST
+update=Sun 12 Jan 2014 08:57:40 PM EST
 last_client=kicad
 [pcbnew]
 version=1
@@ -56,7 +56,10 @@ NetIExt=net
 EquName1=devcms
 [eeschema]
 version=1
-LibDir=
+PageLayoutDescrFile=
+SubpartIdSeparator=0
+SubpartFirstId=65
+LibDir=libs
 NetFmtName=
 RptD_X=0
 RptD_Y=100
