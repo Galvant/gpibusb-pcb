@@ -38,8 +38,8 @@ Firmware: https://www.github.com/Galvant/gpibusb-firmware
 Docs: https://www.github.com/Galvant/gpibusb-documentation
 Bootloader: https://www.github.com/Galvant/gpibusb-bootloader
 
-Hardware Revisions Compatibility
---------------------------------
+Firmware Compatibility
+----------------------
 
 Here hardware revisions (left) are listed with their compatible software versions (right). The hardware
 revision is marked on the silkscreen on the adapter PCB.
