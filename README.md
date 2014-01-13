@@ -35,7 +35,9 @@ Related Repos
 See the following repos for more information
 
 Firmware: https://www.github.com/Galvant/gpibusb-firmware
+
 Docs: https://www.github.com/Galvant/gpibusb-documentation
+
 Bootloader: https://www.github.com/Galvant/gpibusb-bootloader
 
 Firmware Compatibility
